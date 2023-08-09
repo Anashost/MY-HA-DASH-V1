@@ -20,13 +20,15 @@ After swipe:
 * [stack-in-card](https://github.com/custom-cards/stack-in-card)
 * [swipe-card](https://github.com/bramkragten/swipe-card)
 
+* [card-mod](https://github.com/thomasloven/lovelace-card-mod)
+
 ### 2. you need to enable these sensors in the companion app:
 * Battery sensors
 * Network sensors
 * location sensors
 
-### 3. you need to have/create **groups** and lights count **sensors**:
-(Restart is required after you create the sensors)
+### 3. you need to have/create **groups** and lights counters **sensors**:
+(Restart is required after you create sensors)
 
 <details>
   <summary>Livingroom Lights count example (Click to expand)</summary>
