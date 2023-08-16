@@ -1,3 +1,10 @@
+[![GitHub Latest Release][releases_shield]][latest_release]
+[![GitHub All Releases][downloads_total_shield]][releases]
+[![Community Forum][community_forum_shield]][community_forum]<!-- anashost_support_badges_start -->
+[![PayPal.Me][paypal_me_shield]][paypal_me]
+[![Revolut.Me][revolut_me_shield]][revolut_me]
+<!-- anashost_support_badges_end -->
+
 In this repo i will share with you how to create the **Header**, **Persons** and **Rooms** cards for this dashboard
 *****
 
@@ -20,15 +27,13 @@ After swipe:
 * [stack-in-card](https://github.com/custom-cards/stack-in-card)
 * [swipe-card](https://github.com/bramkragten/swipe-card)
 
-* [card-mod](https://github.com/thomasloven/lovelace-card-mod)
-
 ### 2. you need to enable these sensors in the companion app:
 * Battery sensors
 * Network sensors
 * location sensors
 
-### 3. you need to have/create **groups** and lights counters **sensors**:
-(Restart is required after you create sensors)
+### 3. you need to have/create **groups** and lights count **sensors**:
+(Restart is required after you create the sensors)
 
 <details>
   <summary>Livingroom Lights count example (Click to expand)</summary>
@@ -1165,3 +1170,25 @@ cards:
 </details>
 
 # Enjoy
+
+  
+  
+[latest_release]: https://github.com/Anashost/MY-HA-DASH/releases/latest
+
+[releases_shield]: https://img.shields.io/github/release/Anashost/MY-HA-DASH.svg?style=popout
+
+[releases]: https://github.com/Anashost/MY-HA-DASH/releases
+
+[downloads_total_shield]: https://img.shields.io/github/downloads/Anashost/MY-HA-DASH/total
+
+[community_forum_shield]: https://img.shields.io/static/v1.svg?label=%20&message=Forum&style=popout&color=41bdf5&logo=HomeAssistant&logoColor=white
+
+[community_forum]: https://github.com/Anashost/MY-HA-DASH/issues
+
+[paypal_me_shield]: https://img.shields.io/static/v1.svg?label=%20&message=PayPal.Me&logo=paypal
+
+[paypal_me]: https://www.paypal.me/anashost
+
+[revolut_me_shield]: https://img.shields.io/static/v1.svg?label=%20&message=Revolut&logo=revolut
+
+[revolut_me]: https://revolut.me/anas4e
