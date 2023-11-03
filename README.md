@@ -1,6 +1,7 @@
 [![Community Forum][community_forum_shield]][community_forum]<!-- anashost_support_badges_start -->
 [![PayPal.Me][paypal_me_shield]][paypal_me]
 [![Revolut.Me][revolut_me_shield]][revolut_me]
+[![ko_fi][ko_fi_shield]][ko_fi_me]
 <!-- anashost_support_badges_end -->
 
 In this repo i will share with you how to create the **Header**, **Persons** and **Rooms** cards for this dashboard
@@ -1183,10 +1184,14 @@ cards:
 
 [community_forum]: https://github.com/Anashost/MY-HA-DASH/issues
 
-[paypal_me_shield]: https://img.shields.io/static/v1.svg?label=%20&message=PayPal.Me&logo=paypal
+[paypal_me_shield]: https://img.shields.io/static/v1.svg?label=%20&message=PayPal&logo=paypal
 
-[paypal_me]: https://www.paypal.me/anashost
+[paypal_me]: https://www.paypal.me/supportanasbox
 
 [revolut_me_shield]: https://img.shields.io/static/v1.svg?label=%20&message=Revolut&logo=revolut
 
 [revolut_me]: https://revolut.me/anas4e
+
+[ko_fi_shield]: https://img.shields.io/static/v1.svg?label=%20&message=ByMeCoffee&logo=ko-fi
+
+[ko_fi_me]: https://ko-fi.com/anasbox
